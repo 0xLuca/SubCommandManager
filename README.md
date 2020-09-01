@@ -3,7 +3,7 @@ Easy to use Java Sub-Command Manager (created for bukkit, could use in any softw
 
 ## Usage
 
-Create class named SubCommandManager.java and paste the contents from XXX.
+Create class named SubCommandManager.java and paste the content from https://github.com/luca-gg/SubCommandManager/blob/master/SubCommandManager.java.
 
 In your command manager check if the arguments length is > 0, then pass arguments to your SubCommandManager and have fun with the returned state.
 
@@ -25,4 +25,4 @@ if (args.length > 0) {
 }
 ```
 
-Example subcommand can be found at XXX.
+Example subcommand can be found at https://github.com/luca-gg/SubCommandManager/blob/master/TestSubCommand.java.
