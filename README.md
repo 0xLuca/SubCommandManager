@@ -25,4 +25,6 @@ if (args.length > 0) {
 }
 ```
 
+(dont copy and paste this code if you are using java8 like the most spigot programmers, you need to change var to SubCommandManager.SubCommandState)
+
 Example subcommand can be found at https://github.com/luca-gg/SubCommandManager/blob/master/TestSubCommand.java.
